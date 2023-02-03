@@ -3,18 +3,18 @@
 ## Array
 
 ```
-假如数组的长度为 n。
-访问：O（1）
-插入：O（n）
-删除：O（n）
+length: n。
+query：O（1）
+insert：O（n）
+delete：O（n）
 ```
 
 ## LinkedList
 
 ```
-假如链表中有n个元素。
-访问：O（n）
-插入删除：O（1）
+length: n。
+query：O（n）
+insert && delete：O（1）
 ```
 
 ### Applications
@@ -26,9 +26,9 @@
 ## Stack
 
 ```
-假设堆栈中有n个元素。
-访问：O（n）
-插入删除：O（1）
+length: n
+query：O（n）
+insert && delete：O（1）
 ```
 
 ### Applications
@@ -40,12 +40,11 @@
 ## Queue
 
 ```
-假设队列中有n个元素。
-访问：O（n）
-插入删除：O（1）
-队列为空：front == rear
-队列为满：（rear+1）% maxsiz == front
-（少用一个存储空间，数组的最后一个存数空间不用）
+length: n
+query：O（n）
+insert && delete：O（1）
+empty：front == rear
+full：（rear+1）% maxsiz == front
 ```
 
 ### Single Queue
