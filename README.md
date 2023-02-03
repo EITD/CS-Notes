@@ -107,6 +107,23 @@
 
 
 ## <span id="Design">Design</span>
+### Design Patterns
+[Factory Pattern](<Design/Design Patterns/Factory Pattern/Factory Pattern.md>)
+
+[Singleton Pattern](<Design/Design Patterns/Singleton Pattern/Singleton Pattern.md>)
+
+[Adapter Pattern](<Design/Design Patterns/Adapter Pattern/Adapter Pattern.md>)
+
+[Composite Pattern](<Design/Design Patterns/Composite Pattern/Composite Pattern.md>)
+
+[Command Pattern](<Design/Design Patterns/Command Pattern/Command Pattern.md>)
+
+[Observer Pattern](<Design/Design Patterns/Observer Pattern/Observer Pattern.md>)
+
+[Strategy Pattern](<Design/Design Patterns/Strategy Pattern/Strategy Pattern.md>)
+
+### Design Principles
+[SOLID](<Design/Design Principles-SOLID/Design Principles-SOLID.md>)
 
 
 ## <span id="Framework">Framework</span>
