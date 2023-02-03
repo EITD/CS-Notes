@@ -127,3 +127,8 @@
 
 
 ## <span id="Framework">Framework</span>
+### IoC
+[Dependency Injection](<Framework/IoC/Dependency Injection/Dependency Injection.md>)
+
+### REST
+[REST](<Framework/REST/REST.md>)
