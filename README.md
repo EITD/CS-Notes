@@ -15,6 +15,15 @@
 
 
 ## <span id="Algorithm">Algorithm</span>
+[Sort](<Algorithm/Sort/Sort.md>)
+
+[Minimum Spanning Tree](<Algorithm/Minimum Spanning Tree/Minimum Spanning Tree.md>)
+
+[The Shortest Path](<Algorithm/The Shortest Path/The Shortest Path.md>)
+
+[Search](<Algorithm/Search/Search.md>)
+
+[Monotone Stack](<Algorithm/Monotone Stack/Monotone Stack.md>)
 
 
 ## <span id="Data-Structure">Data Structure</span>
