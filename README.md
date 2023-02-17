@@ -11,8 +11,6 @@
 
 [Design](#Design)
 
-[Framework](#Framework)
-
 
 ## <span id="Algorithm">Algorithm</span>
 [Sort](<Algorithm/Sort/Sort.md>)
@@ -124,11 +122,3 @@
 
 ### Design Principles
 [SOLID](<Design/Design Principles-SOLID/Design Principles-SOLID.md>)
-
-
-## <span id="Framework">Framework</span>
-### IoC
-[Dependency Injection](<Framework/IoC/Dependency Injection/Dependency Injection.md>)
-
-### REST
-[REST](<Framework/REST/REST.md>)
